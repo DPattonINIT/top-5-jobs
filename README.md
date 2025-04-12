@@ -1,5 +1,9 @@
 <<<<<<< HEAD
-peer review:
+Darryl patton
+
+Top 5 Jobs.
+
+I created a SPA that list my top 5 companies i would like to work for. Created using Next.Js
 
 
 
